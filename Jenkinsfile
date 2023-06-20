@@ -11,7 +11,7 @@ agent any
   	stage('PreCond') {
             agent {
                 docker {
-                    image 'node:18'
+                    image 'node:14'
                 }	
             }
             steps {
