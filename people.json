@@ -1,36 +1,46 @@
 {
   "profiles": [
     {
-      "firstname": "Tom",
-      "lastname": "Jagger",
+      "firstname": "Utsav Ravimanya",
+      "lastname": "Manikandan",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+        "LHe is good boy",
       "tagline": "Developer, Writer and Speaker",
       "twitter": "https://twitter.com/",
-      "imgSrc": "tom-jagger.jpg",
-      "id": "tom"
+      "imgSrc": "utsav.jpg",
+      "id": "utsav"
     },
 
     {
-      "firstname": "Sarah",
-      "lastname": "You",
+      "firstname": "Inbav Ravimanya",
+      "lastname": "Manikandan",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+        "He is naughty boy",
       "tagline": "UX/UI Designer",
       "twitter": "https://twitter.com/",
-      "imgSrc": "sarah-you.jpg",
-      "id": "sarah"
+      "imgSrc": "inbav.jpg",
+      "id": "inbav"
     },
 
     {
-      "firstname": "Caroline",
-      "lastname": "Green",
+      "firstname": "Priyadharshini",
+      "lastname": "Manikandan",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "Consultant and Photographer",
+        "She is naughty girl",
+      "tagline": "Great Data sci",
       "twitter": "https://twitter.com/",
-      "imgSrc": "caroline-green.jpg",
-      "id": "caroline"
+      "imgSrc": "priya.jpg",
+      "id": "priya"
+    },
+    {
+      "firstname": "Manikandan",
+      "lastname": "Ravi",
+      "bio":
+        "He is verstile in Autoamtion and DevOps",
+         "tagline": "Principle SDET | Automation Engineer | DevOps Engineer",
+      "twitter": "https://www.linkedin.com/in/manikandanravi13/",
+      "imgSrc": "manikandan-ravi.jpg",
+      "id": "manikandanravi"
     }
   ]
 }

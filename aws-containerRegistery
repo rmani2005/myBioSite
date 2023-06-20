@@ -1,0 +1,13 @@
+#Login into AWS CLi and push the Docker images
+
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 385068814670.dkr.ecr.us-east-1.amazonaws.com
+
+docker build -t manikandanravi-biosite .
+
+tag:
+docker tag manikandanravi-biosite:latest 385068814670.dkr.ecr.us-east-1.amazonaws.com/manikandanravi-biosite:latest
+
+Push:
+docker push 385068814670.dkr.ecr.us-east-1.amazonaws.com/manikandanravi-biosite:latest
+
+
