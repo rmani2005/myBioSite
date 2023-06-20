@@ -16,7 +16,7 @@ agent any
             }
             steps {
                 sh 'node -v'
-                sh 'node install npm'
+                sh 'npm install'
             }
         }
   
